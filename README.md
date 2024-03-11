@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Alexey</h1>
-<h3 align="center">A passionate Python QA Automation engineer</h3>
+<h3 align="center">An enthusiastic Python QA Automation Engineer</h3>
+
+<h3 align="left">Currently working on</h3>
+bunch of educational projects that you can check out in [this repo](https://github.com/AlexeyKuzko/study_projects).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -12,11 +15,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeykuzko&show_icons=true&locale=en" alt="alexeykuzko" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeykuzko&show_icons=true&locale=en" alt="alexeykuzko" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeykuzko&label=Profile%20views&color=0e75b6&style=flat" alt="alexeykuzko" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a/> https://career.habr.com/alexey_kuzko </a>
-</p>
+<h3 align="left">Connect with me</h3>
+ by sending me a DM on my [Habr Career profile](https://career.habr.com/alexey_kuzko).
+
