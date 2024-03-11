@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic Python QA Automation Engineer</h3>
 
 <h3 align="left">Currently working on</h3>
-<p align="left">bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects">this repo</a>.</p>
+<p align="left">bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects"><strong>this repo</strong></a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -20,5 +20,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeykuzko&label=Profile%20views&color=0e75b6&style=flat" alt="alexeykuzko" /> </p>
 
 <h3 align="left">Connect with me</h3>
-<p align="left">by sending me a DM on my <a href="https://career.habr.com/alexey_kuzko">Habr Career profile</a>.</p>
+<p align="left">by sending me a direct message on my Habr Career <a href="https://career.habr.com/alexey_kuzko"><strong>profile page</strong></a>.</p>
 
