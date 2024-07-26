@@ -3,7 +3,7 @@
 
 <h3 align="left">Currently working on</h3>
 <p align="left">a bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects"><strong>this repo</strong></a>;</p>
-<p align="left">solving interview questions <a href="https://github.com/AlexeyKuzko/study_projects"><strong>here</strong></a>;</p>
+<p align="left">solving interview questions <a href="https://github.com/AlexeyKuzko/interview_questions"><strong>here</strong></a>;</p>
 <p align="left">and planning to post a telegram bot some day soon, so keep an eye on my profile... or better follow me! 😏</p>
 
 <h3 align="left">Languages and Tools:</h3>
