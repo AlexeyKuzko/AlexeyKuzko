@@ -26,5 +26,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeykuzko&label=Profile%20views&color=0e75b6&style=flat" alt="alexeykuzko" /> </p>
 
 <h3 align="left">Feel free to connect with me</h3>
-<p align="left">by sending me a direct message on my Habr Career <a href="https://career.habr.com/alexey_kuzko"><strong>profile page</strong></a>.</p>
+<p align="left">via Telegram <a href="https://t.me/kuzkoalexey"><strong>@kuzkoalexey</strong></a>.</p>
 
