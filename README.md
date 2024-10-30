@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alexey</h1>
-<h3 align="center">A passionate software engineer with experience in automated testing and DevOps</h3>
+<h3 align="center">A passionate software engineer with experience in QA Automation and DevOps</h3>
 
 <h3 align="left">Currently working on:</h3>
 <p align="left">a bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects"><strong>this repo</strong></a> or in my other smaller repos;</p>
