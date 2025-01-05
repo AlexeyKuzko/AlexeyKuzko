@@ -25,6 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexeykuzko&show_icons=true&locale=en" alt="alexeykuzko" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeykuzko&label=Profile%20views&color=0e75b6&style=flat" alt="alexeykuzko" /> </p>
 
-<h3 align="left">Feel free to connect with me:</h3>
-<p align="left">via Telegram <a href="https://t.me/kuzkoalexey"><strong>@kuzkoalexey</strong></a>.</p>
 
