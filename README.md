@@ -2,7 +2,7 @@
 <p align="center">I’m a passionate software engineer with experience in QA Automation and DevOps.</p>
 
 <h3 align="left">Currently working on:</h3>
-<p align="left">•	A bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects"><strong>this repo</strong></a> or in my other smaller repos;</p>
+<p align="left">•	A bunch of educational projects that you can check out in <a href="https://github.com/AlexeyKuzko/study_projects"><strong>this repo</strong></a> or <a href="https://github.com/AlexeyKuzko?tab=repositories"><strong>in my other repos</strong></a>;</p>
 <p align="left">•	Solving interview questions <a href="https://github.com/AlexeyKuzko/interview_questions"><strong>here</strong></a>;</p>
 <p align="left">•	Planning to develop something cool someday, so maybe keep an eye on my profile... or better yet, follow me! 😏</p>
 
