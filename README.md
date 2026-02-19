@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexey Kuzko</h1>
-<h3 align="center">QA Automation & DevOps Engineer</h3>
+<h3 align="center">Software Engineer with experience in QA Automation & DevOps</h3>
 
 <p align="center">
 I build reliable test automation and infrastructure solutions.<br>
@@ -20,11 +20,11 @@ Interested in CI/CD, cloud technologies, and backend development.
 
 ## 🚀 Current Focus
 
-- 🔹 Educational DevOps & AQA backend projects →  
+- 🔹 Finishing my DevOps diploma project in Gitlab (mirror) → 
+  👉 https://github.com/AlexeyKuzko/devops_diploma
+- 🔹 Educational AQA & DevOps backend projects → 
   👉 https://github.com/AlexeyKuzko/study_projects  
-- 🔹 Interview preparation & coding tasks →  
-  👉 https://github.com/AlexeyKuzko/interview_questions  
-- 🔹 Exploring cloud & infrastructure tooling  
+- 🔹 Exploring cloud & infrastructure tooling, experimenting with Golang and many more in other repos → 
   👉 https://github.com/AlexeyKuzko?tab=repositories
 ---
 
@@ -32,15 +32,21 @@ Interested in CI/CD, cloud technologies, and backend development.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-plain-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/playwright/playwright-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/postgresql/postgresql-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width="40"/>
 </p>
 
 ---
