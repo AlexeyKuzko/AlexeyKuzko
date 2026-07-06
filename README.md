@@ -1,75 +1,50 @@
-<h1 align="center">Hi 👋, I'm Alexey Kuzko</h1>
-<h3 align="center">Software Engineer with experience in QA Automation & DevOps</h3>
+# Alexey Kuzko
 
-<p align="center">
-I build reliable test automation and infrastructure solutions.<br>
-Interested in CI/CD, cloud technologies, and backend development.
-</p>
+Software Engineer in Test moving toward DevOps / Platform Engineering.
 
----
+I focus on release reliability: automated testing, CI/CD, infrastructure as code,
+containerized deployments, observability, and practical security labs.
 
-## 👨‍💻 About Me
+## Selected Projects
 
-- 🧪 QA Automation Engineer with hands-on DevOps experience  
-- 🐍 Main stack: **Python, Linux, Docker, CI/CD**  
-- ⚙️ I enjoy automating everything: tests, deployments, environments  
-- 📚 Currently working on educational and pet projects here on GitHub
-- 🎯 Goal: grow as a DevOps / Platform Engineer
+### [devops_diploma](https://github.com/AlexeyKuzko/devops_diploma)
 
----
+Completed end-to-end DevOps diploma project for a Django LMS deployed to Yandex Cloud.
+GitLab CI/CD builds and verifies the app, Terraform provisions infrastructure,
+Ansible deploys application, database, and monitoring nodes, and health checks
+support rollback.
 
-## 🚀 Current Focus
+Stack: Django, PostgreSQL, Redis, Docker, GitLab CI, Terraform, Ansible, Prometheus, Grafana.
 
-- 🔹 Finishing my DevOps diploma project in Gitlab (mirror) → 
-  👉 https://github.com/AlexeyKuzko/devops_diploma
-- 🔹 Educational AQA & DevOps backend projects → 
-  👉 https://github.com/AlexeyKuzko/study_projects  
-- 🔹 Exploring cloud & infrastructure tooling, experimenting with Golang and many more in other repos → 
-  👉 https://github.com/AlexeyKuzko?tab=repositories
----
+### [ITMO_Suricata-IPS-Docker-Lab](https://github.com/AlexeyKuzko/ITMO_Suricata-IPS-Docker-Lab)
 
-## 🛠️ Tech Stack
+Hands-on Suricata IDS/IPS lab with Docker networking, vulnerable services,
+custom detection and blocking rules, EveBox, and OWASP Top 10 attack scenarios.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/playwright/playwright-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/ansible/ansible-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/terraform/terraform-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/postgresql/postgresql-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" width="40"/>
-</p>
+Stack: Suricata, Docker Compose, Linux networking, iptables/NFQUEUE, security monitoring.
 
----
+### [Sausage Store DevOps Project](https://github.com/AlexeyKuzko/cloud-services-engineer-sausage-store-project-sem2)
 
-## 📌 Featured Projects
+Course project around a multi-service application with infrastructure and delivery automation:
+Terraform, GitLab CI, Checkov, Terratest, Helm, Java, Go, and Angular services.
 
-👉 Check my pinned repositories below  
-They showcase:
-- Infrastructure automation  
-- CI/CD pipelines  
-- Backend services  
-- Test automation frameworks  
+## QA / SDET Background
 
----
+I also keep selected QA automation work:
 
-## 📫 Contact Me
+- UI/API testing with Python, Pytest, Selenium, and Playwright patterns
+- Page Object Model, test data, reports, and CI-friendly test execution
+- Interview and course projects separated from flagship DevOps work
+
+Selected QA repository: [interview_questions](https://github.com/AlexeyKuzko/interview_questions).
+
+## Core Stack
+
+Python, Bash, Go basics, Linux, Docker, Docker Compose, GitLab CI, GitHub Actions,
+Terraform, Ansible, PostgreSQL, Prometheus, Grafana, Pytest, Selenium, Playwright.
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/alexeykuzko/)
 - [Telegram](https://t.me/kuzkoalexey)
 - [Email](mailto:kuzkoalexey@icloud.com)
-  
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alexeykuzko&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
