@@ -16,17 +16,14 @@ support rollback.
 
 Stack: Django, PostgreSQL, Redis, Docker, GitLab CI, Terraform, Ansible, Prometheus, Grafana.
 
-### [ITMO_Suricata-IPS-Docker-Lab](https://github.com/AlexeyKuzko/ITMO_Suricata-IPS-Docker-Lab)
+### [devops_study_projects](https://github.com/AlexeyKuzko/devops_study_projects)
 
-Hands-on Suricata IDS/IPS lab with Docker networking, vulnerable services,
-custom detection and blocking rules, EveBox, and OWASP Top 10 attack scenarios.
+Aggregated DevOps study archive with coursework and labs from cloud engineering,
+infrastructure automation, distributed systems, containerization, and security.
+It keeps the profile compact while preserving the work in one navigable repository.
 
-Stack: Suricata, Docker Compose, Linux networking, iptables/NFQUEUE, security monitoring.
-
-### [Sausage Store DevOps Project](https://github.com/AlexeyKuzko/cloud-services-engineer-sausage-store-project-sem2)
-
-Course project around a multi-service application with infrastructure and delivery automation:
-Terraform, GitLab CI, Checkov, Terratest, Helm, Java, Go, and Angular services.
+Includes: Suricata IDS/IPS lab, Ansible and Docker Compose deployments, GitLab/GitHub CI,
+Terraform/Yandex Cloud projects, Helm-based service delivery, DBOps, and Go coursework.
 
 ## QA / SDET Background
 
