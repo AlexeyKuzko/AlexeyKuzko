@@ -1,13 +1,19 @@
 # Alexey Kuzko
 
-Software Engineer in Test moving toward DevOps / Platform Engineering.
+Senior Software Quality Engineer at Positive Technologies and graduate of the DevOps Engineer master's program
+at ITMO University.
 
-I focus on release reliability: automated testing, CI/CD, infrastructure as code,
-containerized deployments, observability, and practical security labs.
+Currently growing toward backend development with Python.
+
+I combine QA automation for release reliability and DevOps engineering experience
+with a backend-focused path: Python services, APIs, CI/CD, infrastructure as code,
+containerized deployments, observability, and practical cybersecurity.
 
 ## Selected Projects
 
-### [devops_diploma](https://github.com/AlexeyKuzko/devops_diploma)
+### DevOps
+
+#### [devops_diploma](https://github.com/AlexeyKuzko/devops_diploma)
 
 Completed end-to-end DevOps diploma project for a Django LMS deployed to Yandex Cloud.
 GitLab CI/CD builds and verifies the app, Terraform provisions infrastructure,
@@ -16,7 +22,7 @@ support rollback.
 
 Stack: Django, PostgreSQL, Redis, Docker, GitLab CI, Terraform, Ansible, Prometheus, Grafana.
 
-### [devops_study_projects](https://github.com/AlexeyKuzko/devops_study_projects)
+#### [devops_study_projects](https://github.com/AlexeyKuzko/devops_study_projects)
 
 Aggregated DevOps study archive with coursework and labs from cloud engineering,
 infrastructure automation, distributed systems, containerization, and security.
@@ -25,15 +31,24 @@ It keeps the profile compact while preserving the work in one navigable reposito
 Includes: Suricata IDS/IPS lab, Ansible and Docker Compose deployments, GitLab/GitHub CI,
 Terraform/Yandex Cloud projects, Helm-based service delivery, DBOps, and Go coursework.
 
-## QA / SDET Background
+### SDET / AQA
 
-I also keep selected QA automation work:
+#### [study_projects](https://github.com/AlexeyKuzko/study_projects)
 
-- UI/API testing with Python, Pytest, Selenium, and Playwright patterns
-- Page Object Model, test data, reports, and CI-friendly test execution
-- Interview and course projects separated from flagship DevOps work
+Aggregated study archive with Python, algorithms, and test automation projects.
+The main QA track includes Yandex Praktikum Automation QA coursework with UI,
+API, unit, and Page Object based testing practice.
 
-Selected QA repository: [interview_questions](https://github.com/AlexeyKuzko/interview_questions).
+Includes: Pytest, Selenium, API testing, UI testing, test design, Python problem-solving,
+algorithms, and GitHub Pages navigation for the project archive.
+
+#### [interview_questions](https://github.com/AlexeyKuzko/interview_questions)
+
+Selected SDET interview and test automation work published with permission.
+Includes an autotesting framework PoC for Yandex Passport authorization checks
+and an AQA live-coding task.
+
+Stack: Python, Pytest, Selenium, Page Object Model, API testing, UI testing, Allure reports.
 
 ## Core Stack
 
