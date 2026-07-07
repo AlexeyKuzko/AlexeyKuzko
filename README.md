@@ -1,13 +1,19 @@
 # Alexey Kuzko
 
-Senior Software Quality Engineer at Positive Technologies and graduate of the DevOps Engineer master's program
-at ITMO University.
+**Senior Software Quality Engineer** at Positive Technologies and graduate of the **DevOps Engineering** master's program
+at ITMO University, now growing toward backend development with Python.
 
-Currently growing toward backend development with Python.
+I bring together QA automation for release reliability, DevOps engineering,
+and practical work with Python services, APIs, CI/CD, infrastructure as code,
+containerized deployments, observability, and cybersecurity labs.
 
-I combine QA automation for release reliability and DevOps engineering experience
-with a backend-focused path: Python services, APIs, CI/CD, infrastructure as code,
-containerized deployments, observability, and practical cybersecurity.
+My public repositories document this progression through study projects,
+diploma work, and hands-on engineering practice.
+
+## Core Stack
+
+Python, Bash, Go (basics), Linux, Docker, Docker Compose, GitLab CI, GitHub Actions,
+Terraform, Ansible, PostgreSQL, Prometheus, Grafana, Pytest, Selenium, Playwright.
 
 ## Selected Projects
 
@@ -50,13 +56,6 @@ and an AQA live-coding task.
 
 Stack: Python, Pytest, Selenium, Page Object Model, API testing, UI testing, Allure reports.
 
-## Core Stack
-
-Python, Bash, Go basics, Linux, Docker, Docker Compose, GitLab CI, GitHub Actions,
-Terraform, Ansible, PostgreSQL, Prometheus, Grafana, Pytest, Selenium, Playwright.
-
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/alexeykuzko/)
-- [Telegram](https://t.me/kuzkoalexey)
-- [Email](mailto:kuzkoalexey@icloud.com)
+### [LinkedIn](https://www.linkedin.com/in/alexeykuzko/) | [Telegram](https://t.me/kuzkoalexey) | [Email](mailto:kuzkoalexey@icloud.com)
