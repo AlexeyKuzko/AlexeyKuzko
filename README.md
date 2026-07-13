@@ -2,41 +2,34 @@
 
 **Senior Software Quality Engineer**
 
-I work in cybersecurity with a focus on maintainable automated testing framework architecture and clear release feedback.
+Профессиональный интерес — архитектура фреймворков авто-тестирования с фокусом на прозрачный фидбек о качестве релизов.
 
-My DevOps Engineering background adds CI/CD, IaC, and observability.
+Работаю в сфере информационной безопасности, сейчас прохожу профессиональную переподготовку по направлению Python Backend Development.
 
-Currently, I'm pursuing professional retraining program in Python Backend Development.
+## Репозитории
+Репозитории в этом профиле содержат мои учебные проекты.
 
-## Education & Engineering Profile
+### DevOps Engineering
 
-**DevOps Engineer, ITMO University** — master's-program graduate.
+- [django-release-engineering](https://github.com/AlexeyKuzko/django-release-engineering)
 
-- **Quality Engineering — core depth:** Python, API/UI automation, test design, Page Objects, and release reliability.
-- **DevOps & test infrastructure:** reproducible environments, CI/CD, infrastructure as code, and observability.
-- **Python Backend — growth area:** deeper understanding of services, APIs, data flows, and the tools around them.
+Дипломный проект по доставке Django LMS: GitLab CI/CD, Docker-проверки, Terraform, Ansible, health checks, rollback и мониторинг.
 
-## Selected Repositories
+- [devops-cloud-engineering-labs](https://github.com/AlexeyKuzko/devops-cloud-engineering-labs)
 
-### [django-release-engineering](https://github.com/AlexeyKuzko/django-release-engineering)
+Курируемый архив лабораторных работ по DevOps и облачным технологиям: CI/CD, автоматизация инфраструктуры, контейнеры, observability, базы данных и безопасность.
 
-Diploma project of Django LMS delivery: GitLab CI/CD, Docker checks, Terraform, Ansible, health checks, rollback, and monitoring.
+Стек: CI/CD (GitHub Actions, GitLab CI,), IaC (Terraform), Linux, Bash, Docker, Terraform, Ansible, Helm, Django, PostgreSQL, Redis, Prometheus, Grafana, Suricata IDS/IPS
 
-### [devops-cloud-engineering-labs](https://github.com/AlexeyKuzko/devops-cloud-engineering-labs)
+### Python & AQA
 
-Curated archive of DevOps and cloud labs covering CI/CD, infrastructure automation, containers, observability, databases, and security.
+- [python-qa-engineering-labs](https://github.com/AlexeyKuzko/python-qa-engineering-labs)
 
-### [python-qa-engineering-labs](https://github.com/AlexeyKuzko/python-qa-engineering-labs)
+Курируемые работы по Python и Auto QA: детерминированные pytest-тесты, автоматизация API/UI, Page Object, ООП, алгоритмы и тестовые задания.
 
-Curated Python and QA coursework: deterministic pytest, API/UI automation, Page Objects, OOP, algorithms, and interview case studies.
+Стек: Python, Pytest, Selenium/Playwright для авто-тестирования API/UI, тест-дизайн Allure, Page Object Model,
 
-## Core Technology Stack
-
-- **Quality:** Python, Pytest, Selenium, Playwright, API/UI testing, Page Object Model, Allure.
-- **Delivery:** Linux, Bash, Docker, GitHub Actions, GitLab CI, Terraform, Ansible, Helm.
-- **Backend & operations:** Django, PostgreSQL, Redis, Prometheus, Grafana, Suricata IDS/IPS.
-
-## Contact
+## Контакты
 
 - [LinkedIn](https://www.linkedin.com/in/alexeykuzko/)
 - [Telegram](https://t.me/kuzkoalexey)
